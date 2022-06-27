@@ -1,6 +1,6 @@
 remote_theme: poole/hyde
 plugins:
-  - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
