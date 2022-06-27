@@ -1,4 +1,4 @@
-remote_theme: poole/hyde
+remote_theme:  niklasbuschmann/contrast@v3.0
 plugins:
   - jekyll-remote-theme
 relative_links:
