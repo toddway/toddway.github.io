@@ -1,4 +1,4 @@
-remote_theme: andrewbanchich/forty-jekyll-theme
+remote_theme: poole/hyde
 plugins:
   - jekyll-relative-links
 relative_links:
